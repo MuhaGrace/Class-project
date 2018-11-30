@@ -1,0 +1,23 @@
+body{
+    background-color: white;
+    margin: 0;
+}
+figure{
+    background-image: linear-gradient(-20deg, #6e45e2 0%, #88d3ce 100%);
+    margin: 0;
+    display: flex;
+}
+figcaption{
+    background-color: rgb(145, 185, 201);
+    padding: 0px 100px;
+}
+.images{
+    height: 100px;
+    position: sticky;
+    top: 40px;
+    padding: 20px 80px;
+    width: 80px;
+}
+p{
+    text-align: justify;
+}
